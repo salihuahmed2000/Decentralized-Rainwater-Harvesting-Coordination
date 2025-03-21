@@ -9,3 +9,5 @@ C
 tests/test-utils.ts,9/f/9fda4008f387bc8dd541bb9f9e457fe6f5f4fc1e
 R
 "contracts/system-registration.clar,4/7/4726a671e5a94fe6f194f3c38c0e88917f681dd6
+N
+contracts/volume-tracking.clar,4/3/43ec9894186d5a1d30639edc625e0777897290d1
